@@ -27,4 +27,3 @@ I love handling data and explore different domains. My project porfolio portrays
 
 ## 💬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/taha-sameer)
-- [Email](mailto:tsam755@aucklanduni.ac.nz)
