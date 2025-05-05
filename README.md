@@ -15,6 +15,9 @@ Now I build ML models, automate workflows, and answer the **“so what?”** beh
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-IBM-blue?logo=ibm&logoColor=white)
+
+
 
 ## 📁 What Have I Done:
 I love handling data and explore different domains. My project porfolio portrays my ability to take any problem head on.
