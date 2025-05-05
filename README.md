@@ -18,8 +18,8 @@ Now I build ML models, automate workflows, and answer the **“so what?”** beh
 
 ## 📁 What Have I Done:
 I love handling data and explore different domains. My project porfolio portrays my ability to take any problem head on.
-- [Customer Churn Prediction](https://github.com/christiene/churn-prediction)
-- [Inventory Optimization Model](https://github.com/christiene/inventory-optimization)
+- [Segmenting Bank Customers](https://github.com/tsam755/Unsupervised_ML_Clustering)
+- [Sports Analytics - NBA Statistics](https://github.com/RajithaReniguntla/NBAStats)
 - [Machine Learning for Finance](https://github.com/christiene/machine-learning-finance)
 
 ### Fun Facts:
