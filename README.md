@@ -22,9 +22,9 @@ Now I build ML models, automate workflows, and answer the **“so what?”** beh
 
 ## 📁 What Have I Done:
 I love handling data and explore different domains. My project porfolio portrays my ability to take any problem head on.
-- [Segmenting Bank Customers](https://github.com/tsam755/Unsupervised_ML_Clustering)
-- [Sports Analytics - NBA Statistics](https://github.com/RajithaReniguntla/NBAStats)
-- [Customer Behavioural Analysis](https://github.com/tsam755/Customer_Analysis_SQL)
+- [Segmenting Bank Customers - SPSS](https://github.com/tsam755/Unsupervised_ML_Clustering)
+- [Sports Analytics - NBA Statistics - Python](https://github.com/RajithaReniguntla/NBAStats)
+- [Customer Behavioural Analysis - SQL](https://github.com/tsam755/Customer_Analysis_SQL)
 
 ### Fun Facts:
 - I get so involved with a project that I dream about different scenarios. I recently solved an overfitting issue like this 
