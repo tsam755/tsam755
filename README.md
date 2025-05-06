@@ -25,6 +25,7 @@ I love handling data and explore different domains. My project porfolio portrays
 - [Segmenting Bank Customers - SPSS](https://github.com/tsam755/Unsupervised_ML_Clustering)
 - [Sports Analytics - NBA Statistics - Python](https://github.com/RajithaReniguntla/NBAStats)
 - [Customer Behavioural Analysis - SQL](https://github.com/tsam755/Customer_Analysis_SQL)
+- [Fraud Detection using ML - R Studio](https://github.com/tsam755/Fraud_Detection/blob/main/README.md)
 
 ### Fun Facts:
 - I get so involved with a project that I dream about different scenarios. I recently solved an overfitting issue like this 
