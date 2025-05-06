@@ -26,6 +26,7 @@ I love handling data and explore different domains. My project porfolio portrays
 - [Sports Analytics - NBA Statistics - Python](https://github.com/RajithaReniguntla/NBAStats)
 - [Customer Behavioural Analysis - SQL](https://github.com/tsam755/Customer_Analysis_SQL)
 - [Fraud Detection using ML - R Studio](https://github.com/tsam755/Fraud_Detection/blob/main/README.md)
+- [Relationship between CO2 Emissions and Forested Area - PowerBI](https://github.com/tsam755/Renewable_Energy_vs_Forested_Area)
 
 ### Fun Fact:
 - I get so involved with a project that I dream about different scenarios. I recently solved an overfitting issue like this 
