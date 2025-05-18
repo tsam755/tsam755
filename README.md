@@ -28,7 +28,7 @@ I love handling data and explore different domains. My project porfolio portrays
 - [Fraud Detection using ML - R Studio](https://github.com/tsam755/Fraud_Detection/blob/main/README.md)
 - [Relationship Between CO2 Emissions and Forested Area - PowerBI](https://github.com/tsam755/Renewable_Energy_vs_Forested_Area)
 - [USAID HIV/AIDS Shipment Analysis - PowerBI / R Studio](https://github.com/tsam755/HIV_USAID_SupplychainAnalytics)
-- [Predicting Seasonal Equity Offering Underpricing - Python]
+- [Predicting Seasonal Equity Offering Underpricing - Python](https://github.com/tsam755/SEO_Underpricing)
 
 ### Fun Fact:
 - I get so involved with a project that I dream about different scenarios. I recently solved an overfitting issue like this 
