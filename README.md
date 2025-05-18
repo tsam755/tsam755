@@ -1,6 +1,6 @@
 # Kia ora, I'm Taha 👋
 
-A Business Analyst with an Accounting & Finance background who crossed over into data because real-world decisions need more than just gut feeling and spreadsheets.. (I still love Excel)
+A Business Analyst with an Accounting & Finance background who crossed over into data because real-world decisions need more than just gut feeling and spreadsheets.... (I still love Excel)
 
 Now I build ML models, automate workflows, and answer the **“so what?”** behind every analysis.
 
